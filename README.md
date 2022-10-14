@@ -1,12 +1,14 @@
 # DigiBank
+Programação orientada a objectos
 
 A minha primeira console application usando C#.
 
 Programa bancário:
-- Criar conta com username & password
-- Realizar depósitos e levantamentos
-- Verificar e apresentar os movimentos bancários
+- Criar conta com Nome, NIF e Password;
+- Realizar depósitos e levantamentos;
+- Verificar saldo;
+- Apresentar os movimentos bancários;
 
-Conteúdo feito com recurso a material na internet
+Conteúdo realizado com recurso e estudo de material na internet
 
 #VisualStudio2022
