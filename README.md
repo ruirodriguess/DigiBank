@@ -13,7 +13,6 @@ The reason for this application was to train coding object-oriented programming 
 ## Languages 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
-*IDE: Visual Studio 2022*
 
 ## Topics/Techniques
 
@@ -25,7 +24,7 @@ The reason for this application was to train coding object-oriented programming 
 
 :heavy_check_mark: Present bank transactions;
 
-
+*IDE: Visual Studio 2022*
 *Content made using the study of material on the internet.*
 
 ## Contacts
