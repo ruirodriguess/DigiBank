@@ -1,19 +1,27 @@
-<h1>DigiBank</h1>
+# DigiBank
 
-## Languages use
+*My first console app.*
+
+```
+Status: Finished
+```
+## Description
+Console App using C# that allows the management of and for clients. The application can easily scale to something bigger and more complete.
+It is an ATM genre but with the possibility to create and register new customers.
+The reason for this application was to train coding object-oriented programming (OOP).
+
+## Languages 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
+## Topics/Techniques
 
-Programação orientada a objectos
+- Account registration with Name, NIF and Password;
+- Realize deposits and withdrawals;
+- Check balance;
+- Present bank transactions;
 
-A minha primeira console application usando C#.
+*Content made using the study of material on the internet.*
 
-Programa bancário:
-- Criar conta com Nome, NIF e Password;
-- Realizar depósitos e levantamentos;
-- Verificar saldo;
-- Apresentar os movimentos bancários;
+## Questions
 
-Conteúdo realizado com recurso e estudo de material na internet
-
-#VisualStudio2022
+For any questions, feel free to send an email to ruirodrigues04@outlook.pt
