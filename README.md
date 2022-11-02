@@ -28,7 +28,7 @@ The reason for this application was to train coding object-oriented programming 
 
 *Content made using the study of material on the internet.*
 
-## Questions
+## Contacts
 
 For any questions, feel free to send an email to ruirodrigues04@outlook.pt
 
