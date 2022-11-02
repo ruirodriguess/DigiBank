@@ -17,10 +17,14 @@ The reason for this application was to train coding object-oriented programming 
 
 ## Topics/Techniques
 
-- Account registration with Name, NIF and Password;
-- Realize deposits and withdrawals;
-- Check balance;
-- Present bank transactions;
+:heavy_check_mark: Account registration with Name, NIF and Password;
+
+:heavy_check_mark: Realize deposits and withdrawals;
+
+:heavy_check_mark: Check balance;
+
+:heavy_check_mark: Present bank transactions;
+
 
 *Content made using the study of material on the internet.*
 
