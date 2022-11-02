@@ -13,6 +13,8 @@ The reason for this application was to train coding object-oriented programming 
 ## Languages 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
+*IDE: Visual Studio 2022*
+
 ## Topics/Techniques
 
 - Account registration with Name, NIF and Password;
