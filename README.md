@@ -1,6 +1,6 @@
 # DigiBank
 
-*My first console app.*
+*My first console app*
 
 ```
 Status: Finished
@@ -25,6 +25,7 @@ The reason for this application was to train coding object-oriented programming 
 :heavy_check_mark: Present bank transactions;
 
 *IDE: Visual Studio 2022*
+
 *Content made using the study of material on the internet.*
 
 ## Contacts
